@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nicolas Dunand
+N;CHARSET=UTF-8:Dunand;Nicolas;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:n.dunand@me.com
+URL;type=pref:https\://github.com/ndunand
+TEL;TYPE=HOME,VOICE:+41793422927
+REV:2021-02-01T14:07:10.028Z
+END:VCARD
